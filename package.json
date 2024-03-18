@@ -1,6 +1,6 @@
 {
   "name": "sound-effect",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Meet 'soundEffect' – your ticket to an immersive React experience! Elevate your app with dynamic sound effects that pack a punch. Just a simple call and voila! Your UI springs to life with every action, making interactions feel like magic. 🎵✨",
   "main": "core.js",
   "scripts": {
