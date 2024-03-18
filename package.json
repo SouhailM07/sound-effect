@@ -1,7 +1,7 @@
 {
-  "name": "usesound",
+  "name": "sound-effect",
   "version": "0.0.1",
-  "description": "Check out this sweet React hook called useSound! It's like adding turbocharged sound effects to your elements. Just hook it up and watch your app come to life with every click, tap, or interaction. 🎵💥",
+  "description": "Meet 'soundEffect' – your ticket to an immersive React experience! Elevate your app with dynamic sound effects that pack a punch. Just a simple call and voila! Your UI springs to life with every action, making interactions feel like magic. 🎵✨",
   "main": "core.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,6 +9,7 @@
   "keywords": [
     "react",
     "useSound",
+    "soundEffect",
     "sound",
     "effects"
   ],
