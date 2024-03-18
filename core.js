@@ -1,8 +1,8 @@
 import { soundCollection } from "./src";
 
-export default function soundEffect(src) {
+export function soundEffect() {
     let effects = soundCollection
-    const sound = () => {
+    const sound = (src) => {
         let audio = new Audio(src);
         try {
             audio.play();
