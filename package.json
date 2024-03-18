@@ -1,0 +1,17 @@
+{
+  "name": "usesound",
+  "version": "0.0.1",
+  "description": "useSound is a react hook to add sound effects to the elements",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "useSound",
+    "sound",
+    "effects"
+  ],
+  "author": "shadow07",
+  "license": "MIT"
+}
