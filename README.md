@@ -13,7 +13,7 @@
 
 Meet 'soundEffect' – your ticket to an immersive React experience! Elevate your app with dynamic sound effects that pack a punch. Just a simple call and voila! Your UI springs to life with every action, making interactions feel like magic. 🎵✨experience.
 
-[Read the Docs to Learn More](https://vitejs.dev).
+[Read the Docs to Learn More](https://github.com/SouhailM07/sound-effect/tree/main/doc).
 
 > Features :
 
