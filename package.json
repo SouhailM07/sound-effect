@@ -1,8 +1,8 @@
 {
   "name": "usesound",
   "version": "0.0.1",
-  "description": "useSound is a react hook to add sound effects to the elements",
-  "main": "index.js",
+  "description": "Check out this sweet React hook called useSound! It's like adding turbocharged sound effects to your elements. Just hook it up and watch your app come to life with every click, tap, or interaction. 🎵💥",
+  "main": "core.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
