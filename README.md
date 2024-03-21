@@ -26,6 +26,26 @@ Meet 'soundEffect' – your ticket to an immersive React experience! Elevate you
 npm i sound-effect
 ```
 
+## Basic Usage
+
+```
+let { sound , effects } = soundEffect()
+
+<div onClick={()=>sound(src)}/>
+
+You can use your favorite sound or use our built in effects
+
+<div onClick={()=>sound(effects.tap1)}/>
+
+```
+
+## Built in Effects
+
+| Effects |
+| ------- |
+| bell    |
+| tap1    |
+
 ## License
 
 [MIT](LICENSE).
