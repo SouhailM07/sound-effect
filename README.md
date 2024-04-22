@@ -5,7 +5,9 @@
 <p align="center">
   <a href="https://www.npmjs.com/package/sound-effect"><img src="https://img.shields.io/npm/v/sound-effect" alt="npm package"></a>
   <a href="https://nodejs.org/en/about/previous-releases"><img src="https://img.shields.io/node/v/sound-effect" alt="node compatibility"></a>
-<img src="https://img.shields.io/npm/dw/sound-effect"/>
+    <a href="https://www.npmjs.com/package/sound-effect"><img src="https://img.shields.io/npm/dt/sound-effect?label=Total%20Downloads" alt="Total Downloads"></a>
+<!--     <a href="https://www.npmjs.com/package/sound-effect"><img src="https://img.shields.io/npm/dm/sound-effect" alt="npm downloads"></a> -->
+<!-- <img src="https://img.shields.io/npm/dw/sound-effect"/> -->
 
 </p>
 <br/>
